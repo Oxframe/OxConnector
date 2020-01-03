@@ -1,4 +1,4 @@
-package cn.oxframe.connector.service;
+package cn.oxframe.connector;
 
 import java.util.concurrent.TimeUnit;
 
